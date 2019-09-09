@@ -1,3 +1,5 @@
+> This is a note from the 2019 Fall resume workshop of Johns Hopkins University.
+
 ## Contents
 1. Resume
 2. Networking
@@ -5,67 +7,61 @@
 
 
 ## Resume
-purpose: obtain a interview( instead of a job)
+Purpose: obtain a interview( instead of a job)
+Assumption: Only 10 secs to make an impression. make it inviting to read.
 
-assumptions:
-
-- only 10 secs to make an impression. make it inviting to read.
-
-TODOS
-
+#### TODOS
 - step 1: robot reads resume and looks for keywords, skills.
-- no tables, graphs -> because ATS can't read them.
+  so don't put tables, graphs -> because ATS can't read them.
 - font: 10~12pt, 3/4 ~ 1 inch margin
-- 1-level bullet points. no sub-bullet.
-- use`BOLD CAPS` for headings
+- 1-level bullet points. no sub-bullets.
+- use `BOLD CAPS` for headings
 - use `BOLD` or `CAPS` to guide reader's eye
-- `Italics` `underlining` are for papers, publications
-- no first person words . (I, my) use phrases that begin with an active verb.
+- `Italics`, `underlining` for papers, publications.
+- No first person words(I, my). Use phrases that begin with an active verb.
 
-resume structure
-
+#### Resume Structure
 1. name & contact
 2. summary & objective
-  seeking XXXX in ABC field, with emphasis in XYZ.
-maybe put skills in summary section
+  - seeking XXXX in ABC field, with emphasis in XYZ.
+  - maybe put skills in summary section
 3. education
-bold the degree.
-put gpa if strong
-may add `relevant course work:`
+  - bold the degree.
+  - put gpa if strong
+  - may add `relevant course work:`
 4. experience
-`active verb` convey skills, `nouns` conveys skills
-no `resposible for ...`
-accomplishment, not tasks.
-demonstrate skills used.
-no jargons abbrev.
-use keywords : knowing language of industry
-ex: designed webapp -> designed webapp **adopted by org**
+- `active verb` convey skills, `nouns` conveys skills
+- no `resposible for ...`, just use `...`
+- accomplishment, not tasks. ex: `designed webapp` -> `designed webapp **adopted by org**`
+- demonstrate skills used.
+- no jargons, abbreviation.
+- use keywords: so you have to know the language of industry.
+
 5. skills
-6. leadership/athletic/volunteern/ activity
+6. leadership/athletic/volunteer activity
 7. honor award certification
 
-final points
+#### Final points
 - focus showcase strength/ hard soft skill
 - truthful
 - effectuve langage (active verb noun)
 - quantify accomplishment
 - visually appealing
 
-cover letter: show the passion for the company. mostly nobody have time to do this. lol
+cover letter: show the passion for the company. Mostly nobody have time to do this.(lol)
+
 resume: **can** you do this?
+
 cover letter: do you **want** to do this?
 
 ## Networking
 
-- linedIn
+- LinkedIn
 - self intro
-- tell your stroy/ tell me about yourself
+- tell your stroy/ tell me about yourself (TMAY)
 
-Networking: builing mutually beneficial relationship.
-
-not about braggin/being aggressive/salesy. communicate your value that could help the other person.
-
-youtube vid: Design your career: the networking reframe
+#### Networking: builing mutually beneficial relationship.
+Not about braggin/being aggressive/salesy. communicate your value that could help the other person. Check out this [video](https://www.youtube.com/watch?v=j8cfh6WdHn0)
 
 step1: who's in your network?
 
